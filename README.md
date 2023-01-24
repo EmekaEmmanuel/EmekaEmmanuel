@@ -1,4 +1,6 @@
-### Hi, I'm Emeka Emmanuel!  👋
+EmekaEmmanuel/README.md
+
+  👋
 <h2> Hi, I'm Emeka Emmanuel! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
