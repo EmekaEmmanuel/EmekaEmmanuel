@@ -4,7 +4,7 @@
 <p><em>Remote Full-stack web developer ready for adventure</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-emeka%20ugboaja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://linkedin.com/in/emeka-ugboaja-167820226) 
-[![Twitter Badge](https://img.shields.io/badge/-@iammanuelka___-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/iammanuelka)
+[![Twitter Badge](https://img.shields.io/badge/-@emekaekeoha___-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/emekaekeoha)
 [![ThePracticalDev Badge](https://img.shields.io/badge/-iammanuelka-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/iammanuelka)
 
 
